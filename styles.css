@@ -217,12 +217,18 @@ body {
 .photo-caption {
 	color: #000000;
 	font: "Times New Roman";
-	font-size: 16px;
+	font-size: 12px;
 	text-align: center;
 	margin-left: 25%;
 	margin-right: 25%;
 
 }
+
+.article-section p {
+	color: #000000; 
+	font-size: 14 px;
+	margin-left: 10%;
+	margin-right: 10%;
 	
 	
 
