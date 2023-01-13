@@ -167,13 +167,15 @@ body {
   color: #000000;
   float: left;
   font-family: 'Garamond';
-  font-size: 75px;
-  line-height: 60px;
+  font-size: 70px;
+  line-height: 50px;
   padding-top: 4px;
   padding-right: 8px;
-  padding-left: 3px;
+  padding-left: 5px;
 
 }
+
+/* Dropcap code above adapted from CSS Tricks; link here: https://css-tricks.com/snippets/css/drop-caps/ */ 
 
 .background-photo-caption {
 	text-align: center;
@@ -241,4 +243,17 @@ body {
 	margin-left: 10%;
 	margin-right: 10%;
 	
+}
+	
+
+.dropcap {
+  color: #000000;
+  float: left;
+  font-family: 'Garamond';
+  font-size: 30px;
+  line-height: 10px;
+  padding-top: 1%;
+  padding-right: 2%;
+  padding-left: 1%;
+
 }
