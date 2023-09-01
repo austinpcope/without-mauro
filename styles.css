@@ -63,7 +63,7 @@ body {
 }
 
 .main-photo img {
-	width: 95%;
+	width: 50%;
 	height: auto;
 	margin: auto;
 	display: flex;
